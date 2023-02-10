@@ -1,0 +1,23 @@
+body {
+  margin: 20px;
+  background-color: red;
+}
+h1 {
+  background-color: lightgray;
+}
+p {
+  font-family: lucida sans;
+  font-size: 15px;
+  background-color: white;
+  text-align: justify;
+}
+h1 {
+  font-family: futura;
+  text-align: center;
+  font-size: 40px;
+  background-color: navy;
+  color: white;
+}
+img {
+  background-color: white;
+}

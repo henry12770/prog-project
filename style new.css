@@ -1,0 +1,40 @@
+body {
+    margin: 40px;
+    background-color: beige;
+}
+h1 {
+    background-color: rgb(4, 8, 39);
+    color: white;
+    font-size: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+p {
+  font-family: lucida sans;
+  font-size: 25px;
+  background-color: whitesmoke;
+  text-align: justify;
+}
+
+h2 {
+    font-family: arial black;
+    font-size: 50px;
+  }
+  video {
+    display: block;
+    margin: auto;
+  }
+  iframe {
+    display: block;
+    margin: auto;
+  }
+h3 {
+  font-size: 40px;
+}
+section {
+  font-size: 40px;
+  background-color: lightcyan;
+}
+link {
+  background-color: rgb(30, 69, 104);
+}
